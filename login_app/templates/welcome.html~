@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>
+		Welcome Page
+	</title>
+</head>
+
+<body>
+	<center>
+	<h2>Welcome!</h2>
+	You are currently {{ user_name }}.
+	</center>
+</body>
+
+</html>
